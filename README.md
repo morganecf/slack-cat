@@ -15,5 +15,5 @@ SlackCat has a very specific raison d'etre so she never feels her days to be emp
        '   `.              _.'"'._              .'   `
              `.       ,.-'"       "'-.,       .'
                `.                           .'
-          jgs    `-._                   _.-'
+                 `-._                   _.-'
                      `"'--...___...--'"`
