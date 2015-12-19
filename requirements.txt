@@ -1,0 +1,6 @@
+requests
+python-daemon
+pyyaml
+websocket-client
+phue
+git+https://github.com/slackhq/python-slackclient.git
